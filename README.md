@@ -4,8 +4,8 @@ This is our implementation of a real-time CCTV shoplifting detection system.
 
 ## Dataset
 
-We used the videos in the shoplifting category of the UCF-Crime Dataset. 
+We used the videos in the shoplifting category of the [UCF-Crime Dataset][https://www.crcv.ucf.edu/projects/real-world/]. 
 
 ## Preprocessing
 
-Each video was split into 4 second clips using FFMPEG. The clips were then overlayed with pose information using the YOLOv11 model
+Each video was split into 4 second clips using FFmpeg. The clips were then overlayed with pose information using the YOLOv11 model
