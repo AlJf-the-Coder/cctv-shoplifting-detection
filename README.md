@@ -4,7 +4,7 @@ This is our implementation of a real-time CCTV shoplifting detection system.
 
 ## Dataset
 
-We used the videos in the shoplifting category of the [UCF-Crime Dataset][https://www.crcv.ucf.edu/projects/real-world/]. 
+We used the videos in the shoplifting category of the [UCF-Crime Dataset](https://www.crcv.ucf.edu/projects/real-world/). 
 
 ## Preprocessing
 
