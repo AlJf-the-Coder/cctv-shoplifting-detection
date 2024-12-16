@@ -9,3 +9,7 @@ We used the videos in the shoplifting category of the [UCF-Crime Dataset](https:
 ## Preprocessing
 
 Each video was split into 4 second clips using FFmpeg. The clips were then overlayed with pose information using the YOLOv11 model
+
+## Model
+
+Frames of the updated clip are then used as input to a 3D CNN which outputs the shoplifting probability of the entire clip
